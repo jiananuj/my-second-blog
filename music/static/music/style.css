@@ -1,0 +1,12 @@
+body{
+    background: red;
+}
+
+.navbar{
+    border-radius: 0;
+    height: 50px;
+}
+
+.navbar-brand{
+    font-family: 'Satisfy', cursive;
+}
